@@ -6,7 +6,9 @@ function App() {
       <div className="flex flex-col w-80 justify-center items-center text-center bg-[--dark-desaturated-blue] text-[--slightly-transparent-white] rounded-lg lg:flex-row-reverse lg:w-[985px] lg:h-[370px]">
         <div className="w-full h-[200px] rounded-t-lg bg-[--soft-violet] mix-blend-multiply lg:h-full lg:rounded-none" />
         <img
+          alt="image of people working"
           className="-mt-[200px] h-[200px] w-full rounded-t-lg lg:-mr-[466px] lg:mt-0 lg:h-full lg:rounded-b-lg"
+          // src="../images/image-header-mobile.jpg"
           src="../images/image-header-mobile.jpg"
         />
         <section className="flex flex-col gap-6 my-10 mx-4 lg:w-[95%] lg:h-full lg:justify-between lg:text-left lg:px-16 lg:py-12 lg:pr-20 lg:m-0">
