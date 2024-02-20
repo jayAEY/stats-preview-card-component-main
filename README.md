@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](../images/Stats-preview-card-component-mobile-screenshot.png)
+![Screenshot](./images/Stats-preview-card-component-mobile-screenshot.png)
 
 ### Links
 
