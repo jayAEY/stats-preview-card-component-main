@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 function App() {
   return (
     <main className="min-w-svw min-h-svh font-inter flex justify-center items-center bg-[--very-dark-blue]">
